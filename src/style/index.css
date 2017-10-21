@@ -1,0 +1,28 @@
+#root {
+  margin-top: 1vh;
+  height: 100%;
+}
+.block {
+  display: inline-block;
+  padding: .5em;
+  margin: 0.25em 0.5em 1em 0.25em; 
+  background: #d9d9d9;
+  height: 3.5rem;
+  padding-left: 1em;
+  padding-right: 1em;
+}
+.html-text-area {
+  height:50vh; 
+  width:100%; 
+  border: 1px solid #d9d9d9; 
+  padding: 1rem 1rem; 
+}
+.area{
+  height:50vh;  
+  background: #f7f7f7;
+  border:1px solid #d9d9d9; 
+  overflow:auto;
+  padding-left: 1em;
+  padding-top: 1em;
+  padding-right: 5em; 
+}
